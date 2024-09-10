@@ -1,4 +1,4 @@
-# Report  - Week of 08/29/2024 #
+# Report  - Week 1 (08/29/2024 - 09/06/2024) #
 
 ### Getting to College ###
 
@@ -20,3 +20,14 @@ A notebook to be filled with ideas. Excited with the end of the first week to be
 
 <img width="200" alt="Getting hands on THE notebook" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Notebook.jpg">
 
+# Report - Week 2 (09/09/2024-09/13/2024) #
+
+### Failing fast ###
+
+Using the Rhino and Grasshopper is new, but starting to learn the software, the requirements and tutorials.
+
+<img width="200" alt="Creating a sphere" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Rhino.png">
+
+
+#### Rhino 8 ####
+#### Grasshopper ####
