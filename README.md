@@ -48,8 +48,8 @@ Learning a new tool is intimidating but finding success in small step really hel
 #### My first shot at 3D Printing ####
 
 The fabrication class helped me a lot when I tried to print a model. I was able to get my first ever print with a 3D Printer. 
-
 I plan on getiing the Pen stand 3D printed as well.
+
 <img width="200" alt="3D Print" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/3D Print.jpg">
 <img width="200" alt="Phone Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/3DPrint PhoneStand.jpg">
 
