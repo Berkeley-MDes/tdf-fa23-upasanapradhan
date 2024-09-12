@@ -4,13 +4,13 @@
 
 This week was all about figuring out the transport and how to get to classes the best route and on time. 
 
-Getting used to the new means of transportation which isn't familiar to you means that you go to the stops way earlier so you don't miss the bus, it means that getting used to the way and finding alternative methods if a plan fails. (In my case, walking to school/)
+Getting used to the new means of transportation which isn't familiar to you means that you go to the stops way earlier so you don't miss the bus, it means that getting used to the way and finding alternative methods if a plan fails. (In my case, walking to school.)
 
 <img width="200" alt="Figuring out Transportation" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ACTransit.jpg">
 
 ### Old and New ###
 
-This week I participated in an introductory session on Arduino except of clasees. It was after my first year of engineering that I got to stay in a class as such. It was my first time ever working with an arduino, and a memory with working and basic eletronics from college was reignited.
+This week I participated in an introductory session on Arduino except of classes. It was after my first year of engineering that I got to stay in a class as such. It was my first time ever working with an arduino, and a memory with working and basic electronics from college was reignited.
 
 <img width="200" alt="Working with arduino" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Arduino.jpg">
 
@@ -47,15 +47,13 @@ Learning a new tool is intimidating but finding success in small step really hel
 
 #### My first shot at 3D Printing ####
 
-The fabrication class helped me a lot when I tried to print a model. I was able to get my first ever print with a 3D Printer.
+The fabrication class helped me a lot when I tried to print a model. I was able to get my first ever print with a 3D Printer. 
 
-
+I plan on getiing the Pen stand 3D printed as well.
 <img width="200" alt="3D Print" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/3D Print.jpg">
 <img width="200" alt="Phone Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/3DPrint PhoneStand.jpg">
 
-** The print in use: **
-
-
+##### The print in use: #####
 <img width="200" alt="Phone stand with a phone" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PhoneStand.jpg">
 <img width="200" alt="Phone stand with Kindle" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PhoneStandKindle.jpg">
 
