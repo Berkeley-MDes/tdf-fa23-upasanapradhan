@@ -28,30 +28,33 @@ Using the Rhino and Grasshopper is new, but starting to learn the software, the 
 
 <img width="200" alt="Creating a sphere" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Rhino.png">
 
-The model was comples to grasp but the video and tutorials helped me along with a few questions that I could search about. 
-
+The model was complex to grasp but the video and tutorials helped me along with a few questions that I could search about. 
+I started with changing the parameters for the component, what would work and what would fail.
 
 #### Diagram to show my understanding of the model ####
-This diagram display the most important features from the Model.
+This diagram display the most important features from the model. I tried to break ot dom into simple form to truly understand what is happening.
 <img alt="Flowchart" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Flowchart.png">
 
 #### Creating a Pen Stand ####
 Learned how to create my own model and progressively learned:
-1. using a cylinder shape as a void
-2. using centers from the top and bottom to create a loft.
+1. Using a cylinder shape as a void
+2. Using centers from the top and bottom to create a loft. 
 <img width="400" alt="In Rhino" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PenStand.png">
 <img width="400" alt="The Grasshopper model" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PenStandGrasshopper.png">
+
+Learning a new tool is intimidating but finding success in small step really helps you go on and try new things.
 
 
 #### My first shot at 3D Printing ####
 
-The fabrication class helped me a lot when I tried to print a model.
+The fabrication class helped me a lot when I tried to print a model. I was able to get my first ever print with a 3D Printer.
 
 
 <img width="200" alt="3D Print" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/3D Print.jpg">
 <img width="200" alt="Phone Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/3DPrint PhoneStand.jpg">
 
-The print in use:
+** The print in use: **
+
 
 <img width="200" alt="Phone stand with a phone" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PhoneStand.jpg">
 <img width="200" alt="Phone stand with Kindle" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PhoneStandKindle.jpg">
