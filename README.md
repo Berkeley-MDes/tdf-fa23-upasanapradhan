@@ -63,7 +63,7 @@ I plan on getiing the Pen stand 3D printed as well.
 
 I sucessfully printed the model for my pen stand
 
-<img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PenStand.jpg">
+<img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Penstand.jpg">
 
 Here is a moment in time where I was amazed.
 
@@ -73,4 +73,4 @@ Here is a moment in time where I was amazed.
 
 I added and created a honeycomb design with the file given to us by the professor
 
-<img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/honeyconb.jpg">
+<img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/honeycomb.jpg">
