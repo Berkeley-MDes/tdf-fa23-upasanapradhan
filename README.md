@@ -1,3 +1,4 @@
+
 # Report  - Week 1 (08/29/2024 - 09/06/2024) #
 
 ### Getting to College ###
@@ -58,8 +59,18 @@ I plan on getiing the Pen stand 3D printed as well.
 <img width="200" alt="Phone stand with Kindle" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PhoneStandKindle.jpg">
 
 
+# Report - Week 3 (09/14/2024-09/19/2024) #
 
+I sucessfully printed the model for my pen stand
 
+<img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PenStand.jpg">
 
+Here is a moment in time where I was amazed.
 
+<img width="200" alt="All hexagonal tubes" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/IMG_1214.MOV">
 
+#### Final Hexagonal Mesh Geodesign Design ####
+
+I added and created a honeycomb design with the file given to us by the professor
+
+<img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/honeyconb.jpg">
