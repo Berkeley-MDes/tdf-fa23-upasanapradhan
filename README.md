@@ -65,9 +65,9 @@ I sucessfully printed the model for my pen stand
 
 <img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Penstand.jpg">
 
-Here is a moment in time where I was amazed.
+Here is a moment in time where I was amazed by the power of Grasshopper.
 
-<img width="200" alt="All hexagonal tubes" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/IMG_1214.MOV">
+<img width="200" alt="All hexagonal tubes" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Mesh.png">
 
 #### Final Hexagonal Mesh Geodesign Design ####
 
