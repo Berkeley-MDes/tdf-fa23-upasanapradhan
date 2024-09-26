@@ -61,7 +61,7 @@ I plan on getiing the Pen stand 3D printed as well.
 
 # Report - Week 3 (09/14/2024-09/19/2024) #
 
-I sucessfully printed the model for my pen stand
+I sucessfully printed the model for my pen stand.
 
 <img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Penstand.jpg">
 
@@ -69,11 +69,34 @@ Here is a moment in time where I was amazed by the power of Grasshopper.
 
 <img width="200" alt="All hexagonal tubes" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Mesh.png">
 
-#### Final Hexagonal Mesh Geodesign Design ####
+#### Final Hexagonal Mesh Geodesic Design ####
 
-I added and created a honeycomb design with the file given to us by the professor
+I added and created a honeycomb design with the file given to us by the professor. I was curious what my professor had originally imagined the phone stand to be used for. It was great to hear his answer that although it was intended for a phone stand, people use it as a paperweight and even a penholder.
 
 <img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/honeycomb.jpg">
 
 
-# Report - Week 4(09/14/2024-09/19/2024) #
+# Report - Week 4(09/19/2024-09/26/2024) #
+
+A final Shot to document my success at the very first project.
+
+<img width="200" alt="Phone Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/FinalTDFProject01.png">
+
+I had just printed out my stand, Chris and a fellow student helped me click good shots of the stand with a background. This was during the Laser Cutting Bootcamp. You can see a creation made using laser cutting in the reflection. (This is my reflection of the Laser Cutting Bootcamp. :) ) 
+
+<img width="200" alt="reflection of the Laser Cutting" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/LaserCuttingBootcamp.png">
+
+### Moving from 0 to 1, now 1 to 2. ###
+
+The system map focuses on the ecosystem formed by your AirPods or headphones and the audio/video apps (Spotify, YouTube, etc.) they interact with. Key components include the devices (AirPods, headphones, phone), content platforms (Spotify, YouTube), and sound-related system features (volume,noise , pitch)
+
+Connections: The primary device (phone or computer) acts as the hub, connecting your AirPods or headphones to the content platforms. Information flows from the apps, playing music or videos, to your listening devices, where sound is delivered.
+
+Information Flow: The sound (music, video audio) is streamed through apps like Spotify and YouTube, then transmitted wirelessly to AirPods or headphones. Information such as volume, sound effects, pitch, and noise alerts is dynamically adjusted based on user input and environmental factors.
+
+Feedback Loops: As you adjust the volume, sound effects, and noise alerts, the system optimizes sound quality.
+
+<img alt="Audio Device Network Diagram" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Audio Device Network Diagram.png">
+
+
+
