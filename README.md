@@ -74,3 +74,6 @@ Here is a moment in time where I was amazed by the power of Grasshopper.
 I added and created a honeycomb design with the file given to us by the professor
 
 <img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/honeycomb.jpg">
+
+
+# Report - Week 4(09/14/2024-09/19/2024) #
