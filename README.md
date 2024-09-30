@@ -33,31 +33,41 @@ The model was complex to grasp but the video and tutorials helped me along with 
 I started with changing the parameters for the component, what would work and what would fail.
 
 #### Diagram to show my understanding of the model ####
-This diagram display the most important features from the model. I tried to break ot dom into simple form to truly understand what is happening.
+This diagram display the most important features from the model. I tried to break ot dom into simple form to truly understand what is happening. This visual representation simplified the structure and made it easier for me to focus on each part of the process. It helped turn an abstract model into something more concrete, clarifying the relationships between the elements in the design.
 <img alt="Flowchart" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Flowchart.png">
 
 #### Creating a Pen Stand ####
 Learned how to create my own model and progressively learned:
-1. Using a cylinder shape as a void
-2. Using centers from the top and bottom to create a loft. 
+1. Using a cylinder shape as a void to create the basic structure.
+2. Lofting centers from the top and bottom to generate smooth transitions and curves. Each new step taught me something valuable, from manipulating shapes to refining the design.
+
+<img width="400" alt="In Rhino" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/penstandsketch.gif">
+
+Render in Rhino:
+
 <img width="400" alt="In Rhino" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PenStand.png">
+
+The diagram in grasshopper:
+
 <img width="400" alt="The Grasshopper model" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PenStandGrasshopper.png">
 
-Learning a new tool is intimidating but finding success in small step really helps you go on and try new things.
-
+*Learning a new tool is intimidating but finding success in small step really helps you go on and try new things.*
+I learned that breaking tasks into smaller steps really helps. Each success, no matter how small, encouraged me to push forward and try new things. I now have a better understanding of how to manipulate geometry in Grasshopper, and it’s exciting to see ideas come to life as I develop the model.
 
 #### My first shot at 3D Printing ####
 
-The fabrication class helped me a lot when I tried to print a model. I was able to get my first ever print with a 3D Printer. 
+The fabrication class helped me a lot when I tried to print a model. I was able to get my first ever print with a 3D Printer with a model that I found on the internet. 
 I plan on getiing the Pen stand 3D printed as well.
 
 <img width="200" alt="3D Print" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/3D Print.jpg">
 <img width="200" alt="Phone Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/3DPrint PhoneStand.jpg">
 
 ##### The print in use: #####
+
 <img width="200" alt="Phone stand with a phone" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PhoneStand.jpg">
 <img width="200" alt="Phone stand with Kindle" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PhoneStandKindle.jpg">
 
+It has been fascinating to see how digital models translate into tangible, functional objects.
 
 # Report - Week 3 (09/14/2024-09/19/2024) #
 
@@ -65,7 +75,15 @@ I sucessfully printed the model for my pen stand.
 
 <img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Penstand.jpg">
 
-Here is a moment in time where I was amazed by the power of Grasshopper.
+I wanted to create a honeycomb structure which I learned is called a geodesic structure that uses a mesh. 
+
+<img width="200" alt="Honeycomb Geodesic" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/hexagonalmesh sketch.gif">
+
+For that, I offset the outer circle, split it to create a mesh and extracted the face boundaries. I grafted and simplified it and then exploded for each vertex of the hexagon. The hexagon took the shape to of the sphere so I used plane fit to make it planar. I used this with the average of the vertices for the center and scaled it with a factor of 7. 
+I again scaled it down to fit the inner circle lofted them and capped them to create individual hexagonal tubes that would pierce into the original phone stand.
+
+
+Here is a moment in time where I was amazed by the power of Grasshopper. 
 
 <img width="200" alt="All hexagonal tubes" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Mesh.png">
 
@@ -74,11 +92,13 @@ Here is a moment in time where I was amazed by the power of Grasshopper.
 I added and created a honeycomb design with the file given to us by the professor. I was curious what my professor had originally imagined the phone stand to be used for. It was great to hear his answer that although it was intended for a phone stand, people use it as a paperweight and even a penholder.
 
 <img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/honeycomb.jpg">
-
+ 
+I can see myself delving deeper into generative design, where algorithms can help shape more organic and intricate forms. I also want to explore optimization techniques, using design algorithms to create models that are not only aesthetically pleasing but also structurally efficient. 
 
 # Report - Week 4(09/19/2024-09/26/2024) #
 
-A final Shot to document my success at the very first project.
+### The Hero Shot###
+A Final Shot to document my success at the very first project.
 
 <img width="200" alt="Phone Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/FinalTDFProject01.png">
 
