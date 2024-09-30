@@ -98,5 +98,45 @@ Feedback Loops: As you adjust the volume, sound effects, and noise alerts, the s
 
 <img alt="Audio Device Network Diagram" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Audio Device Network Diagram.png">
 
+# Report - Week 5(09/30/2024-10/04/2024) #
+
+### Reading between the errors ###
+When I first started exploring the files in home, I connected the Photon, and I was able to compile it and flash. I was missing a step though. Connecting to Wifi. Although I had not connected it to my home wifi, it still worked to my surprise. I then went on to connect the circuit. The most helpful thing during my explorations were errors. 
+<div>
+  <img width="200" alt="Reading Errors" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ReadingErrors.png">
+  <img width="200" alt="Handshake Connections Failed" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/CloudHandshake Failed.png">
+</div>
+
+Success! The Photon 2 printing "Hello World" with a steady delay, signaling that the basic code was finally up and running.
 
 
+<img width="200" alt="Output to show hello world" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/SecondFile.gif">
+
+
+Output for third file with delay: In this third iteration, the delay was adjusted to demonstrate controlled output timing. Execution of the delayed response.
+
+<img width="200" alt="Output for Thinrd file with delay" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/DelayThirdFile.gif">
+
+
+Now I was on to the important part, building the physical circuit connections for the Photon 2 was crucial to ensuring all components communicated as expected.
+
+<img width="200" alt="Making connections to build the circuit" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/MakingConnections.jpg">
+
+Creating a button to press and the light up the bulb. Following the image provided to create this.
+
+<img width="200" alt="Connecting the Photon2" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ConnectedPhoton.jpg">
+
+
+Once I was able to compile a few files, I really felt like a maker.
+
+<img width="200" alt="All files compiled" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Maker.png">
+
+A simple input interaction—pressing a button and logging the data—proving that the system was ready to respond to user inputs.
+
+<img width="400" alt="Pressing a button and logging" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ButtonPressed.gif">
+
+Finally, the Photon 2 blinks a bulb periodically, showcasing the controlled output functionality, much like the delayed printing of "Hello World."
+
+<img width="400" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/BulbBlinking.gif">
+
+As I keep exploring Photon 2, I’m curious how better cloud connections could make things run more smoothly. In the future, I hope to find ways to fix errors faster and improve how devices connect.
