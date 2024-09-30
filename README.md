@@ -97,7 +97,7 @@ I can see myself delving deeper into generative design, where algorithms can hel
 
 # Report - Week 4(09/19/2024-09/26/2024) #
 
-### The Hero Shot###
+### The Hero Shot ###
 A Final Shot to document my success at the very first project.
 
 <img width="200" alt="Phone Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/FinalTDFProject01.png">
