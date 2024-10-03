@@ -160,3 +160,40 @@ Finally, the Photon 2 blinks a bulb periodically, showcasing the controlled outp
 <img width="200" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/BulbBlinking.gif">
 
 As I keep exploring Photon 2, I’m curious how better cloud connections could make things run more smoothly. In the future, I hope to find ways to fix errors faster and improve how devices connect.
+
+### 1. Button -> LED pulse rate ###
+I turned on the verbose setting on my VS code so I had a lot of warning and feedback when my project was compiling.
+
+Error: 
+* 'buttonPressed' was not declared in this scope 21 | attachInterrupt(buttonPin, buttonPressed, RISING); //attach an interrupt to the button pin, based on the rising edge *
+
+The error 'buttonPressed' was not declared in this scope means that the function buttonPressed is being used before it is  defined in the code. The compiler doesn't recognize the function at the point where it's called.
+
+<img width="200" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ButtonPressedLED.jpg">
+
+This image shows the LED blinking at a set interval when the button is pressed. After solving the error, the interrupt worked as expected, and the LED blinked based on the pulse rate.
+
+<img width="200" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets.jpg/Press.jpg">
+
+LED blinking rapidly in response to button presses.
+
+<img width="200" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/FastBlinkButton.gif">
+
+### 2. FSR -> LED color  ###
+
+I used a force-sensitive resistor (FSR) to control the color of an LED. This interaction allows the pressure applied on the FSR to influence the color output
+
+<img width="200" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets.jpg/Pressure-LED.jpg">
+
+By applying pressure to the sensor, I was able to change the intensity of the signal being sent, which in turn affected the LED color.
+
+<img width="200" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ColorChanging.gif">
+
+### 2. Button send-on-change  ###
+
+Another aspect I explored was the "send-on-change" feature, which only triggers when a button state changes. This optimizes feedback loops, as the system doesn’t continuously send data unless there’s a relevant change in input.
+
+
+![ButtonStateChange](https://github.com/user-attachments/assets/01335495-1db8-4fb3-8848-955366f57120)
+
+From button interactions to sensor-driven LED changes, I learned the prcess of feedback making the connection between physical input and digital response .
