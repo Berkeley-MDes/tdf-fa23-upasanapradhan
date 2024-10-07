@@ -193,7 +193,36 @@ By applying pressure to the sensor, I was able to change the intensity of the si
 
 Another aspect I explored was the "send-on-change" feature, which only triggers when a button state changes. This optimizes feedback loops, as the system doesn’t continuously send data unless there’s a relevant change in input.
 
+<img width="200" alt="Button Response" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ButtonStateChange.jpg">
 
-![ButtonStateChange](https://github.com/user-attachments/assets/01335495-1db8-4fb3-8848-955366f57120)
+<img width="200" alt="State change Video" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ButtonOnSendVideo.gif">
 
 From button interactions to sensor-driven LED changes, I learned the prcess of feedback making the connection between physical input and digital response .
+
+# Report - Week 5(09/30/2024-10/04/2024) #
+
+### Refining what you learn ###
+Getting comfortable with soldering and follwing along the video to ensure stability and avoid future issues.
+
+<img width="200" alt="soldering" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/SolderingTimelapse1.gif">
+
+<img width="200" alt="stemma" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/stemma.jpg">
+
+The accelerometer and gyrometer working together to capture motion data. Testing these sensors helped me understand how I can accurately read and use real-time motion and orientation data in my project.
+
+<img width="200" alt="accelerometer and gyrometer " src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Accel_gyro.gif">
+
+
+This proximity sensor measures how close an object is. By integrating it into my setup, I was able to test its responsiveness and accuracy for detecting distances.
+
+<img width="200" alt="Proximity value" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Proximity.gif">
+
+
+#### Difference between Qwiic and STEMMA QT ####
+
+Qwiic focuses on I2C devices and uses only 3.3V logic, making it simpler but limited to 3.3V systems.
+STEMMA and STEMMA QT offer more versatility, supporting both I2C and non-I2C devices, with STEMMA QT being Qwiic-compatible. It also handles both 3.3V and 5V logic, providing more flexibility across different projects.
+
+
+
+
