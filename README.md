@@ -1,3 +1,18 @@
+# Hi I'm Upasana Pradhan
+
+Welcome to my ongoing exploration of design and technology! 🌍✨ This blog serves as a personal journal documenting my journey through various projects and progress updates as I navigate the world of design and engineering. Each week brings new challenges and insights. Through sketches ✏️, photos 📸, and detailed reports 📑, I aim to share my skills, thoughts, and experiments.
+
+Whether it's learning to troubleshoot code 💡, prototyping physical objects 🔧, or exploring creative design processes 🎨. 
+
+Join me as I experiment, fail, and ultimately succeed (hopefully)! 😅🙌
+
+Below are links to each week’s progress:
+
+- [Week 1](#report----week-1-08292024---09062024)
+- [Week 2](#report---week-2-09092024-09132024)
+- [Week 3](https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/README.md#report---week-3-09142024-09192024)
+- [Week 4](https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/README.md#report---week-409192024-09262024)
+- [Week 5](https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/README.md#report---week-509302024-10042024)
 
 # Report  - Week 1 (08/29/2024 - 09/06/2024) #
 
@@ -199,7 +214,7 @@ Another aspect I explored was the "send-on-change" feature, which only triggers 
 
 From button interactions to sensor-driven LED changes, I learned the prcess of feedback making the connection between physical input and digital response .
 
-# Report - Week 5(09/30/2024-10/04/2024) #
+# Report - Week 6(10/03/2024-10/10/2024) #
 
 ### Refining what you learn ###
 Getting comfortable with soldering and follwing along the video to ensure stability and avoid future issues.
