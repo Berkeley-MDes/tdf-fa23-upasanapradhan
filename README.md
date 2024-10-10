@@ -10,9 +10,11 @@ Below are links to each week’s progress:
 
 - [Week 1](#report----week-1-08292024---09062024)
 - [Week 2](#report---week-2-09092024-09132024)
-- [Week 3](https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/README.md#report---week-3-09142024-09192024)
-- [Week 4](https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/README.md#report---week-409192024-09262024)
-- [Week 5](https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/README.md#report---week-509302024-10042024)
+- [Week 3](#report---week-3-09142024-09192024)
+- [Week 4](#report---week-409192024-09262024)
+- [Week 5](#report---week-509302024-10042024)
+- [Week 6](#report---week-610032024-10102024)
+  
 
 # Report  - Week 1 (08/29/2024 - 09/06/2024) #
 
