@@ -240,6 +240,66 @@ This proximity sensor measures how close an object is. By integrating it into my
 Qwiic focuses on I2C devices and uses only 3.3V logic, making it simpler but limited to 3.3V systems.
 STEMMA and STEMMA QT offer more versatility, supporting both I2C and non-I2C devices, with STEMMA QT being Qwiic-compatible. It also handles both 3.3V and 5V logic, providing more flexibility across different projects.
 
+# Report - Week 7(10/10/2024-10/17/2024) #
 
+### Building an Interactive Environment
+
+For our second project, we're focusing on creating an interactive environment that collects, processes, and displays data using multiple inputs and outputs. Our system is designed to monitor a baby’s sleep or track their pulse rate—even when the parents are not physically present. This setup allows real-time monitoring, giving parents peace of mind by providing health and environmental data remotely.
+
+We want to combine sensors, cloud connectivity, and feedback mechanisms, using Particle Photon 2 devices as the central hub for communication and data collection. The system will process inputs, send data to the cloud, and provide real-time feedback, all while enabling remote monitoring.
+
+All of this data is transmitted to the cloud, where it’s processed and returned to you in real-time via a display or haptic feedback system (like a vibrating motor). You receive alerts if any irregularities occur, such as a higher-than-normal heart rate or sudden movements.
+
+Below is a breakdown of the components we'll be using:
+
+#### Input
+Analog Input (ADC)
+Pulse Rate Sensor
+Monitors heart rate and sends data to the system for health tracking.
+
+Loudness Sensor
+Measures sound levels in the environment and converts them into readable data.
+
+PIR (Pyroelectric Infrared) Motion Detector
+Detects motion using infrared technology, useful for sensing movement in a defined space.
+
+
+#### Request 
+
+Health API
+Sends health-related data requests to an external API for processing.
+
+Particle Cloud Services
+Handles data transmission and communication between devices and the cloud for real-time processing.
+
+Particle Photon 2
+Main microcontroller for collecting sensor data and managing communication with the cloud.
+
+
+#### Output
+
+Haptic Driver Board (STEMMA QT)
+Controls haptic feedback devices like vibration motors to provide tactile feedback.
+
+Monochrome 1.3" OLED Graphic Display
+Displays real-time data from sensors and cloud interactions in a visual format.
+
+PWM 
+Vibrating Mini Motor
+Provides physical feedback through vibrations, enhancing interactivity.
+
+
+### Progress So Far
+
+#### Sensor Setup:
+All sensors, including the pulse rate sensor, loudness sensor, and motion detector, have been connected to the Particle Photon 2 devices for data collection. We are getting the analog 
+
+<img width="200" alt="Getting all the input to work" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/GettingInput.gif">
+
+#### Cloud Connectivity:
+We successfully connected all the Particle Photon 2 devices to the cloud using Wi-Fi, enabling communication between the system and cloud services.
+
+#### Data Transmission:
+We are now able to publish data from the sensors to the cloud and subscribe to receive feedback, enabling a two-way communication loop.
 
 
