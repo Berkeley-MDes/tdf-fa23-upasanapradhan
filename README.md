@@ -14,6 +14,7 @@ Below are links to each week’s progress:
 - [Week 4](#report---week-409192024-09262024)
 - [Week 5](#report---week-509302024-10042024)
 - [Week 6](#report---week-610032024-10102024)
+- [Week 7](#report---week-710102024-10172024)
   
 
 # Report  - Week 1 (08/29/2024 - 09/06/2024) #
@@ -250,6 +251,8 @@ We want to combine sensors, cloud connectivity, and feedback mechanisms, using P
 
 All of this data is transmitted to the cloud, where it’s processed and returned to you in real-time via a display or haptic feedback system (like a vibrating motor). You receive alerts if any irregularities occur, such as a higher-than-normal heart rate or sudden movements.
 
+<img alt="Proximity value" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/DiagramProject 2.png">
+
 Below is a breakdown of the components we'll be using:
 
 #### Input
@@ -288,7 +291,6 @@ PWM
 Vibrating Mini Motor
 Provides physical feedback through vibrations, enhancing interactivity.
 
-
 ### Progress So Far
 
 #### Sensor Setup:
@@ -302,4 +304,6 @@ We successfully connected all the Particle Photon 2 devices to the cloud using W
 #### Data Transmission:
 We are now able to publish data from the sensors to the cloud and subscribe to receive feedback, enabling a two-way communication loop.
 
+<img width="200" alt="accelerometer and gyrometer " src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Connecting2Photon.gif">
 
+Next we are moving on to the integration fo the Health API and the fabrication for the project. One challenge we've been working through is ensuring that the OLED Graphic Display correctly displays real-time sensor data. We encountered some issues where the display. We're actively troubleshooting and expect to have these issues resolved soon to provide accurate real-time visual feedback.
