@@ -15,7 +15,7 @@ Below are links to each week’s progress:
 - [Week 5](#report---week-509302024-10042024)
 - [Week 6](#report---week-610032024-10102024)
 - [Week 7](#report---week-710102024-10172024)
-- [Week 8](#report---week-810102024-10172024)
+- [Week 8](#report---week-810172024-10242024)
   
 
 # Report  - Week 1 (08/29/2024 - 09/06/2024) #
@@ -311,4 +311,46 @@ Next we are moving on to the integration and the fabrication for the project. On
 
 
 # Report - Week 8(10/17/2024-10/24/2024) #
+
+# Weekly Report: Baby Monitoring System – Project Exploration and Insights
+
+This week, I focused on building a **Baby Monitoring System** that uses IoT to remotely track a baby’s pulse, sound levels, and movement. My work involved setting up cloud connectivity, calibrating sensors, and achieving real-time feedback, all critical steps for creating a responsive system. Here’s how each experiment unfolded:
+
+<img width="200" alt="prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Proto1.png">
+
+I began by setting up **Particle Cloud Services** for real-time data flow. The goal was to sync each sensor (pulse, sound, and motion) with the cloud, publishing updates every five seconds. After a few troubleshooting rounds, I established a stable connection that provided consistent data, enabling real-time updates on the OLED display—a significant step for remote monitoring.
+
+Configuring the sensors brought unique challenges. The **pulse rate sensor** was initially incompatible with the PulseSensor_Spark library, so I switched to a custom BPM calculation. I implemented a counter-based method to detect beats and calculate BPM accurately, adjusting thresholds and using debouncing for reliability. The **loudness sensor** required setting a threshold of 500 (in a 0–1023 range) to detect typical baby sounds like crying, which we calibrated through multiple sound tests. The **PIR motion detector** worked well as a binary sensor, effectively signaling movement.
+
+<img width="200" alt="loudness2" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Loudness_value.png">
+
+Troubleshooting the **OLED display** proved essential to providing clear, real-time visuals of sensor data. I debugged I2C connections and optimized the refresh rate to ensure consistent display updates. With the display now synced, it reliably shows pulse rate, sound levels, and motion changes, bringing an essential layer of functionality to the system.
+
+BPM calculations took a few iterations to perfect. I started with the PulseSensor library, shifted to a 10-second averaging method, then finally adopted a counter-based formula:
+\[
+BPM = \frac{60000}{\text{beatInterval}}
+\]
+This method offered accurate, real-time updates without delays, marking a big improvement in the system’s responsiveness.
+
+To enhance alerts, I connected the **Haptic Driver Board** and vibrating motor, adding tactile feedback to signal significant events like loud noises or high BPM readings. Integrating haptic feedback added an interactive element, instantly notifying users of critical changes.
+
+<img width="200" alt="prototype 2" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Proto2.png">
+
+
+
+## Reflections and Future Directions
+
+This week taught me a lot about managing cloud services, handling real-time data, and configuring sensors accurately. Looking forward, I see potential in integrating **machine learning** to refine detection patterns, such as distinguishing specific sounds. Additionally, linking with the **Google Fitness API** could offer a holistic health view, combining sensor data with broader metrics. Expanding the system’s application to elderly care would be another meaningful direction, using similar components to monitor vital signs and improve care.
+
+
+<img width="200" alt="prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Intermediate1.png">
+
+By the end of the week, I had a fully functioning prototype with synchronized real-time data display and tactile alerts, marking an exciting step forward in IoT for health monitoring.
+
+<img width="200" alt="" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Final1.png">
+<img width="200" alt="final prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Final2.png">
+<img width="200" alt="final prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Final3.png">
+<img width="200" alt="prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Demo.png">
+
+
 
