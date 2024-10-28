@@ -15,6 +15,7 @@ Below are links to each week’s progress:
 - [Week 5](#report---week-509302024-10042024)
 - [Week 6](#report---week-610032024-10102024)
 - [Week 7](#report---week-710102024-10172024)
+- [Week 8](#report---week-810102024-10172024)
   
 
 # Report  - Week 1 (08/29/2024 - 09/06/2024) #
@@ -306,4 +307,8 @@ We are now able to publish data from the sensors to the cloud and subscribe to r
 
 <img width="200" alt="accelerometer and gyrometer " src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Connecting2Photon.gif">
 
-Next we are moving on to the integration fo the Health API and the fabrication for the project. One challenge we've been working through is ensuring that the OLED Graphic Display correctly displays real-time sensor data. We encountered some issues where the display. We're actively troubleshooting and expect to have these issues resolved soon to provide accurate real-time visual feedback.
+Next we are moving on to the integration and the fabrication for the project. One challenge we've been working through is ensuring that the OLED Graphic Display correctly displays real-time sensor data. We encountered some issues where the display. We're actively troubleshooting and expect to have these issues resolved soon to provide accurate real-time visual feedback.
+
+
+# Report - Week 8(10/17/2024-10/24/2024) #
+
