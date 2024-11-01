@@ -16,6 +16,7 @@ Below are links to each week’s progress:
 - [Week 6](#report---week-610032024-10102024)
 - [Week 7](#report---week-710102024-10172024)
 - [Week 8](#report---week-810172024-10242024)
+- [Week 9](#report---week-910242024-10312024)
   
 
 # Report  - Week 1 (08/29/2024 - 09/06/2024) #
@@ -353,5 +354,16 @@ By the end of the week, I had a fully functioning prototype with synchronized re
 <img width="200" alt="prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Demo.png">
 
 # Report - Week 9(10/24/2024-10/31/2024) #
+
+### Weekly Report: Week 9 – Exploring Similarity Scores and Query Tuning
+
+This week, I worked through a tutorial focused on tuning similarity scores for more effective query results. The tutorial led me through adjusting parameters—like similarity thresholds—and seeing their impact on search outputs.
+
+<img  alt="zero-width" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/image 9.png">
+
+Through trial and error, I began to understand how changing similarity scores and re-running queries directly impacted the information returned. This iterative approach to refining queries gave me insight into the balance between model settings and the relevance of search results. 
+
+**Reflection**: Experimenting with threshold adjustments and similarity metrics opened up ways to control how information is retrieved, providing a clearer view of query customization. Moving forward, I’m curious to explore factors like model temperature or alternative model configurations to optimize search precision.
+
 
 
