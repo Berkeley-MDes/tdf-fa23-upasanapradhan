@@ -348,9 +348,10 @@ This week taught me a lot about managing cloud services, handling real-time data
 By the end of the week, I had a fully functioning prototype with synchronized real-time data display and tactile alerts, marking an exciting step forward in IoT for health monitoring.
 
 <img width="200" alt="" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Final1.png">
-<img width="200" alt="final prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Final2.png">
+<img  alt="final prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Final2.png">
 <img width="200" alt="final prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Final3.png">
 <img width="200" alt="prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Demo.png">
 
+# Report - Week 9(10/24/2024-10/31/2024) #
 
 
