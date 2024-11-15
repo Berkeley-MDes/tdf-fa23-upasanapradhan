@@ -17,6 +17,9 @@ Below are links to each week’s progress:
 - [Week 7](#report---week-710102024-10172024)
 - [Week 8](#report---week-810172024-10242024)
 - [Week 9](#report---week-910242024-10312024)
+- [Week 10](#report---week-1010242024-10312024)
+- [Week 11](#report---week-1110242024-10312024)
+
   
 
 # Report  - Week 1 (08/29/2024 - 09/06/2024) #
@@ -27,19 +30,19 @@ This week was all about figuring out the transport and how to get to classes the
 
 Getting used to the new means of transportation which isn't familiar to you means that you go to the stops way earlier so you don't miss the bus, it means that getting used to the way and finding alternative methods if a plan fails. (In my case, walking to school.)
 
-<img width="200" alt="Figuring out Transportation" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ACTransit.jpg">
+<img width="400" alt="Figuring out Transportation" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ACTransit.jpg">
 
 ### Old and New ###
 
 This week I participated in an introductory session on Arduino except of classes. It was after my first year of engineering that I got to stay in a class as such. It was my first time ever working with an arduino, and a memory with working and basic electronics from college was reignited.
 
-<img width="200" alt="Working with arduino" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Arduino.jpg">
+<img width="400" alt="Working with arduino" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Arduino.jpg">
 
 ### A Blank Canvas ###
 
 A notebook to be filled with ideas. Excited with the end of the first week to be working on workshops, gearing up to the classes and the lessons ahead.
 
-<img width="200" alt="Getting hands on THE notebook" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Notebook.jpg">
+<img width="400" alt="Getting hands on THE notebook" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Notebook.jpg">
 
 # Report - Week 2 (09/09/2024-09/13/2024) #
 
@@ -47,7 +50,7 @@ A notebook to be filled with ideas. Excited with the end of the first week to be
 
 Using the Rhino and Grasshopper is new, but starting to learn the software, the requirements and tutorials.
 
-<img width="200" alt="Creating a sphere" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Rhino.png">
+<img width="400" alt="Creating a sphere" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Rhino.png">
 
 The model was complex to grasp but the video and tutorials helped me along with a few questions that I could search about. 
 I started with changing the parameters for the component, what would work and what would fail.
@@ -79,13 +82,13 @@ I learned that breaking tasks into smaller steps really helps. Each success, no 
 The fabrication class helped me a lot when I tried to print a model. I was able to get my first ever print with a 3D Printer with a model that I found on the internet. 
 I plan on getiing the Pen stand 3D printed as well.
 
-<img width="200" alt="3D Print" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/3D Print.jpg">
-<img width="200" alt="Phone Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/3DPrint PhoneStand.jpg">
+<img width="400" alt="3D Print" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/3D Print.jpg">
+<img width="400" alt="Phone Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/3DPrint PhoneStand.jpg">
 
 ##### The print in use: #####
 
-<img width="200" alt="Phone stand with a phone" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PhoneStand.jpg">
-<img width="200" alt="Phone stand with Kindle" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PhoneStandKindle.jpg">
+<img width="400" alt="Phone stand with a phone" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PhoneStand.jpg">
+<img width="400" alt="Phone stand with Kindle" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/PhoneStandKindle.jpg">
 
 It has been fascinating to see how digital models translate into tangible, functional objects.
 
@@ -93,11 +96,11 @@ It has been fascinating to see how digital models translate into tangible, funct
 
 I sucessfully printed the model for my pen stand.
 
-<img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Penstand.jpg">
+<img width="400" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Penstand.jpg">
 
 I wanted to create a honeycomb structure which I learned is called a geodesic structure that uses a mesh. 
 
-<img width="200" alt="Honeycomb Geodesic" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/hexagonalmesh sketch.gif">
+<img width="400" alt="Honeycomb Geodesic" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/hexagonalmesh sketch.gif">
 
 For that, I offset the outer circle, split it to create a mesh and extracted the face boundaries. I grafted and simplified it and then exploded for each vertex of the hexagon. The hexagon took the shape to of the sphere so I used plane fit to make it planar. I used this with the average of the vertices for the center and scaled it with a factor of 7. 
 I again scaled it down to fit the inner circle lofted them and capped them to create individual hexagonal tubes that would pierce into the original phone stand.
@@ -105,13 +108,13 @@ I again scaled it down to fit the inner circle lofted them and capped them to cr
 
 Here is a moment in time where I was amazed by the power of Grasshopper. 
 
-<img width="200" alt="All hexagonal tubes" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Mesh.png">
+<img width="400" alt="All hexagonal tubes" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Mesh.png">
 
 #### Final Hexagonal Mesh Geodesic Design ####
 
 I added and created a honeycomb design with the file given to us by the professor. I was curious what my professor had originally imagined the phone stand to be used for. It was great to hear his answer that although it was intended for a phone stand, people use it as a paperweight and even a penholder.
 
-<img width="200" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/honeycomb.jpg">
+<img width="400" alt="Pen Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/honeycomb.jpg">
  
 I can see myself delving deeper into generative design, where algorithms can help shape more organic and intricate forms. I also want to explore optimization techniques, using design algorithms to create models that are not only aesthetically pleasing but also structurally efficient. 
 
@@ -120,11 +123,11 @@ I can see myself delving deeper into generative design, where algorithms can hel
 ### The Hero Shot ###
 A Final Shot to document my success at the very first project.
 
-<img width="200" alt="Phone Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/FinalTDFProject01.png">
+<img width="400" alt="Phone Stand" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/FinalTDFProject01.png">
 
 I had just printed out my stand, Chris and a fellow student helped me click good shots of the stand with a background. This was during the Laser Cutting Bootcamp. You can see a creation made using laser cutting in the reflection. (This is my reflection of the Laser Cutting Bootcamp. :) ) 
 
-<img width="200" alt="reflection of the Laser Cutting" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/LaserCuttingBootcamp.png">
+<img width="400" alt="reflection of the Laser Cutting" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/LaserCuttingBootcamp.png">
 
 ### Moving from 0 to 1, now 1 to 2. ###
 
@@ -143,41 +146,41 @@ Feedback Loops: As you adjust the volume, sound effects, and noise alerts, the s
 ### Reading between the errors ###
 When I first started exploring the files in home, I connected the Photon, and I was able to compile it and flash. I was missing a step though. Connecting to Wifi. Although I had not connected it to my home wifi, it still worked to my surprise. I then went on to connect the circuit. The most helpful thing during my explorations were errors. 
 <div>
-  <img width="200" alt="Reading Errors" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ReadingErrors.png">
-  <img width="200" alt="Handshake Connections Failed" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/CloudHandshake Failed.png">
+  <img width="400" alt="Reading Errors" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ReadingErrors.png">
+  <img width="400" alt="Handshake Connections Failed" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/CloudHandshake Failed.png">
 </div>
 
 Success! The Photon 2 printing "Hello World" with a steady delay, signaling that the basic code was finally up and running.
 
 
-<img width="200" alt="Output to show hello world" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/SecondFile.gif">
+<img width="400" alt="Output to show hello world" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/SecondFile.gif">
 
 
 Output for third file with delay: In this third iteration, the delay was adjusted to demonstrate controlled output timing. Execution of the delayed response.
 
-<img width="200" alt="Output for Thinrd file with delay" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/DelayThirdFile.gif">
+<img width="400" alt="Output for Thinrd file with delay" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/DelayThirdFile.gif">
 
 
 Now I was on to the important part, building the physical circuit connections for the Photon 2 was crucial to ensuring all components communicated as expected.
 
-<img width="200" alt="Making connections to build the circuit" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/MakingConnections.jpg">
+<img width="400" alt="Making connections to build the circuit" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/MakingConnections.jpg">
 
 Creating a button to press and the light up the bulb. Following the image provided to create this.
 
-<img width="200" alt="Connecting the Photon2" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ConnectedPhoton.jpg">
+<img width="400" alt="Connecting the Photon2" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ConnectedPhoton.jpg">
 
 
 Once I was able to compile a few files, I really felt like a maker.
 
-<img width="200" alt="All files compiled" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Maker.png">
+<img width="400" alt="All files compiled" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Maker.png">
 
 A simple input interaction—pressing a button and logging the data—proving that the system was ready to respond to user inputs.
 
-<img width="200" alt="Pressing a button and logging" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ButtonPressed.gif">
+<img width="400" alt="Pressing a button and logging" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ButtonPressed.gif">
 
 Finally, the Photon 2 blinks a bulb periodically, showcasing the controlled output functionality, much like the delayed printing of "Hello World."
 
-<img width="200" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/BulbBlinking.gif">
+<img width="400" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/BulbBlinking.gif">
 
 As I keep exploring Photon 2, I’m curious how better cloud connections could make things run more smoothly. In the future, I hope to find ways to fix errors faster and improve how devices connect.
 
@@ -189,33 +192,33 @@ Error:
 
 The error 'buttonPressed' was not declared in this scope means that the function buttonPressed is being used before it is  defined in the code. The compiler doesn't recognize the function at the point where it's called.
 
-<img width="200" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ButtonPressedLED.jpg">
+<img width="400" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ButtonPressedLED.jpg">
 
 This image shows the LED blinking at a set interval when the button is pressed. After solving the error, the interrupt worked as expected, and the LED blinked based on the pulse rate.
 
-<img width="200" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets.jpg/Press.jpg">
+<img width="400" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets.jpg/Press.jpg">
 
 LED blinking rapidly in response to button presses.
 
-<img width="200" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/FastBlinkButton.gif">
+<img width="400" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/FastBlinkButton.gif">
 
 ### 2. FSR -> LED color  ###
 
 I used a force-sensitive resistor (FSR) to control the color of an LED. This interaction allows the pressure applied on the FSR to influence the color output
 
-<img width="200" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets.jpg/Pressure-LED.jpg">
+<img width="400" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets.jpg/Pressure-LED.jpg">
 
 By applying pressure to the sensor, I was able to change the intensity of the signal being sent, which in turn affected the LED color.
 
-<img width="200" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ColorChanging.gif">
+<img width="400" alt="Bulb blinking periodically" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ColorChanging.gif">
 
 ### 2. Button send-on-change  ###
 
 Another aspect I explored was the "send-on-change" feature, which only triggers when a button state changes. This optimizes feedback loops, as the system doesn’t continuously send data unless there’s a relevant change in input.
 
-<img width="200" alt="Button Response" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ButtonStateChange.jpg">
+<img width="400" alt="Button Response" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ButtonStateChange.jpg">
 
-<img width="200" alt="State change Video" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ButtonOnSendVideo.gif">
+<img width="400" alt="State change Video" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/ButtonOnSendVideo.gif">
 
 From button interactions to sensor-driven LED changes, I learned the prcess of feedback making the connection between physical input and digital response .
 
@@ -224,18 +227,18 @@ From button interactions to sensor-driven LED changes, I learned the prcess of f
 ### Refining what you learn ###
 Getting comfortable with soldering and follwing along the video to ensure stability and avoid future issues.
 
-<img width="200" alt="soldering" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/SolderingTimelapse1.gif">
+<img width="400" alt="soldering" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/SolderingTimelapse1.gif">
 
-<img width="200" alt="stemma" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/stemma.jpg">
+<img width="400" alt="stemma" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/stemma.jpg">
 
 The accelerometer and gyrometer working together to capture motion data. Testing these sensors helped me understand how I can accurately read and use real-time motion and orientation data in my project.
 
-<img width="200" alt="accelerometer and gyrometer " src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Accel_gyro.gif">
+<img width="400" alt="accelerometer and gyrometer " src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Accel_gyro.gif">
 
 
 This proximity sensor measures how close an object is. By integrating it into my setup, I was able to test its responsiveness and accuracy for detecting distances.
 
-<img width="200" alt="Proximity value" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Proximity.gif">
+<img width="400" alt="Proximity value" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Proximity.gif">
 
 
 #### Difference between Qwiic and STEMMA QT ####
@@ -298,7 +301,7 @@ Provides physical feedback through vibrations, enhancing interactivity.
 #### Sensor Setup:
 All sensors, including the pulse rate sensor, loudness sensor, and motion detector, have been connected to the Particle Photon 2 devices for data collection. We are getting the analog 
 
-<img width="200" alt="Getting all the input to work" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/GettingInput.gif">
+<img width="400" alt="Getting all the input to work" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/GettingInput.gif">
 
 #### Cloud Connectivity:
 We successfully connected all the Particle Photon 2 devices to the cloud using Wi-Fi, enabling communication between the system and cloud services.
@@ -306,7 +309,7 @@ We successfully connected all the Particle Photon 2 devices to the cloud using W
 #### Data Transmission:
 We are now able to publish data from the sensors to the cloud and subscribe to receive feedback, enabling a two-way communication loop.
 
-<img width="200" alt="accelerometer and gyrometer " src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Connecting2Photon.gif">
+<img width="400" alt="accelerometer and gyrometer " src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Connecting2Photon.gif">
 
 Next we are moving on to the integration and the fabrication for the project. One challenge we've been working through is ensuring that the OLED Graphic Display correctly displays real-time sensor data. We encountered some issues where the display. We're actively troubleshooting and expect to have these issues resolved soon to provide accurate real-time visual feedback.
 
@@ -317,13 +320,13 @@ Next we are moving on to the integration and the fabrication for the project. On
 
 This week, I focused on building a **Baby Monitoring System** that uses IoT to remotely track a baby’s pulse, sound levels, and movement. My work involved setting up cloud connectivity, calibrating sensors, and achieving real-time feedback, all critical steps for creating a responsive system. Here’s how each experiment unfolded:
 
-<img width="200" alt="prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Proto1.png">
+<img width="400" alt="prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Proto1.png">
 
 I began by setting up **Particle Cloud Services** for real-time data flow. The goal was to sync each sensor (pulse, sound, and motion) with the cloud, publishing updates every five seconds. After a few troubleshooting rounds, I established a stable connection that provided consistent data, enabling real-time updates on the OLED display—a significant step for remote monitoring.
 
 Configuring the sensors brought unique challenges. The **pulse rate sensor** was initially incompatible with the PulseSensor_Spark library, so I switched to a custom BPM calculation. I implemented a counter-based method to detect beats and calculate BPM accurately, adjusting thresholds and using debouncing for reliability. The **loudness sensor** required setting a threshold of 500 (in a 0–1023 range) to detect typical baby sounds like crying, which we calibrated through multiple sound tests. The **PIR motion detector** worked well as a binary sensor, effectively signaling movement.
 
-<img width="200" alt="loudness2" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Loudness_value.png">
+<img width="400" alt="loudness2" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Loudness_value.png">
 
 Troubleshooting the **OLED display** proved essential to providing clear, real-time visuals of sensor data. I debugged I2C connections and optimized the refresh rate to ensure consistent display updates. With the display now synced, it reliably shows pulse rate, sound levels, and motion changes, bringing an essential layer of functionality to the system.
 
@@ -335,7 +338,7 @@ This method offered accurate, real-time updates without delays, marking a big im
 
 To enhance alerts, I connected the **Haptic Driver Board** and vibrating motor, adding tactile feedback to signal significant events like loud noises or high BPM readings. Integrating haptic feedback added an interactive element, instantly notifying users of critical changes.
 
-<img width="200" alt="prototype 2" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Proto2.png">
+<img width="400" alt="prototype 2" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Proto2.png">
 
 
 
@@ -344,18 +347,18 @@ To enhance alerts, I connected the **Haptic Driver Board** and vibrating motor, 
 This week taught me a lot about managing cloud services, handling real-time data, and configuring sensors accurately. Looking forward, I see potential in integrating **machine learning** to refine detection patterns, such as distinguishing specific sounds. Additionally, linking with the **Google Fitness API** could offer a holistic health view, combining sensor data with broader metrics. Expanding the system’s application to elderly care would be another meaningful direction, using similar components to monitor vital signs and improve care.
 
 
-<img width="200" alt="prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Intermediate1.png">
+<img width="400" alt="prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Intermediate1.png">
 
 By the end of the week, I had a fully functioning prototype with synchronized real-time data display and tactile alerts, marking an exciting step forward in IoT for health monitoring.
 
-<img width="200" alt="" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Final1.png">
+<img width="400" alt="" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Final1.png">
 <img  alt="final prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Final2.png">
-<img width="200" alt="final prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Final3.png">
-<img width="200" alt="prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Demo.png">
+<img width="400" alt="final prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Final3.png">
+<img width="400" alt="prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Demo.png">
 
 # Report - Week 9(10/24/2024-10/31/2024) #
 
-### Weekly Report: Week 9 – Exploring Similarity Scores and Query Tuning
+###Exploring Similarity Scores and Query Tuning
 
 This week, I worked through a tutorial focused on tuning similarity scores for more effective query results. The tutorial led me through adjusting parameters—like similarity thresholds—and seeing their impact on search outputs.
 
@@ -364,6 +367,113 @@ This week, I worked through a tutorial focused on tuning similarity scores for m
 Through trial and error, I began to understand how changing similarity scores and re-running queries directly impacted the information returned. This iterative approach to refining queries gave me insight into the balance between model settings and the relevance of search results. 
 
 **Reflection**: Experimenting with threshold adjustments and similarity metrics opened up ways to control how information is retrieved, providing a clearer view of query customization. Moving forward, I’m curious to explore factors like model temperature or alternative model configurations to optimize search precision.
+
+# Report - Week 10(10/24/2024-10/31/2024) #
+
+## Building Oopsiedaisies – Creating a Conversational Digital Persona
+
+
+<img width="640" alt="Conversational Digital Persona" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Week10OopsieDaisies.png">
+
+This week, I embarked on developing **Oopsiedaisies**, my conversational digital persona, using **ZeroWidth** and advanced tools like **Large Language Models (LLM)** and **Retrieval-Augmented Generation (RAG)**. My goal was to create a responsive, friendly, and context-aware agent capable of reflecting my personal design journey.
+
+
+<img width="640" alt="Perry the platypus" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Week10Challenge Level.png">
+<img width="640" alt="Diagrammatic representation" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Week10Diagram.png">
+
+
+The journey started with **sandboxing in ZeroWidth**, where I set up five experiments to explore different facets of conversational AI. I began by selecting an appropriate LLM from options like **GPT-4o**, **GPT-4 Mini**, and **GPT Turbo**. Each model offered a unique balance of depth, creativity, and clarity. After rigorous testing, I opted for a balanced approach, leaning toward **GPT 4o**.
+
+<img width="640" alt="Comparision of responses of model" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Week10ResponseComparision.png">
+
+To refine Oopsiedaisies' conversational ability, I experimented with **temperature control**. Adjusting the temperature allowed me to tweak the agent's tone—lower temperatures produced concise, precise answers, while higher settings brought creative, but occasionally erratic, responses. Striking a balance here was key to maintaining Oopsiedaisies’ approachable and upbeat personality.
+
+<img width="640" alt="Experiment2" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Week10Experiement2.png">
+
+One of the highlights was **integrating instructions** to define the agent’s personality traits. I crafted prompts that ensured the tone was friendly yet informative, aligning with my design philosophy. However, for more personalized and context-rich interactions, I needed a knowledge base.
+
+<img width="640" alt="Experiment3" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Week10Experiment3.png">
+
+## Adding Knowledge and Real-World Applications
+
+This week, I focused on expanding Oopsiedaisies' capabilities by integrating a **personalized knowledge base** using **RAG**. I converted various documents—like my **GitHub blogs**, **resume**, and **portfolio**—into raw text to serve as a foundational knowledge base. This integration enabled the persona to provide contextually relevant and specific answers, making interactions more authentic.
+
+
+<img width="640" alt="Knowledge chunking" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Week10Chunking.png">
+<img width="640" alt="Knowledge chunks" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Week10Chunks.png">
+
+I introduced **variables** into the system, allowing for dynamic responses based on context, such as location or year. This added a tailored layer to the agent’s output, making it feel responsive and personalized.
+
+<img width="640" alt="Experiment4" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Week10Experiement10.png">
+
+Testing Oopsiedaisies involved evaluating responses against baseline questions, such as:
+- "What is your purpose?"
+- "Who are you representing?"
+  
+I also included custom questions about my own work to test adaptability. For example, I asked about specific challenges in past projects and assessed the agent’s ability to provide detailed, accurate answers.
+
+Finally, I applied these learnings to a real-world use case: **Oopsiedaisies as a voicemail assistant**. I imagined how it could screen calls, prioritize urgent messages, and handle routine inquiries. This experiment required balancing personality with clarity, ensuring responses were friendly but concise.
+
+<img width="640" alt="Experiment5" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Week10Experiement5.png">
+
+---
+
+### Reflections and Future Directions
+
+These two weeks taught me the importance of **balancing creativity and structure** in conversational AI. While tools like temperature control and RAG significantly enhance interactions, crafting concise and relevant responses remains a challenge.
+
+Looking forward, I plan to:
+1. Expand the knowledge base for broader context-awareness.
+2. Explore integrating machine learning for real-time adaptability.
+3. Refine the voicemail assistant idea for practical applications in communication.
+
+The process of building Oopsiedaisies was both technical and creative—a perfect intersection of systems thinking and personal design philosophy. It’s exciting to see how AI tools like this can shape human-centered digital communication.
+
+
+# Report - Week 11(10/24/2024-10/31/2024) #
+
+This week was non instructional yet I spent it in preparation for the 4th and Final Project.
+
+Besides TDF, Fabricating laser cut boxes and foam core boxes or Studio was also something fun and I feel Like I'm learning and applying all the skills that I have gainer throughout this semester.
+
+<img width="400" alt="Foam Core boxes" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Boxes.png">
+
+<img width="400" alt="Lasercut box" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/BoxUpa.png">
+
+<img width="400" alt="2 laser cut box" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Iteration.png">
+
+
+Over the weekend, me and a few classmates also took part in the Designathon. It was great with over 40 teams participating to solve a problem for WOMP: 3D Modeling Software
+
+"HMW better intuitively communicate that Womp simplifies 3D design for users with all skill levels?"
+
+<img width="640" alt="Womp Coach" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/WompCoach.png">
+
+We identified the major pain point and were able to secure First Place. Yayyy!!!
+<img width="640" alt="Designathon Winners" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Winners.jpeg">
+
+
+### Onto the Next One
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
