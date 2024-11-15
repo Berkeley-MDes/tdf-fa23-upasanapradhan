@@ -358,7 +358,7 @@ By the end of the week, I had a fully functioning prototype with synchronized re
 
 # Report - Week 9(10/24/2024-10/31/2024) #
 
-###Exploring Similarity Scores and Query Tuning
+### Exploring RAG and LLM
 
 This week, I worked through a tutorial focused on tuning similarity scores for more effective query results. The tutorial led me through adjusting parameters—like similarity thresholds—and seeing their impact on search outputs.
 
@@ -366,9 +366,11 @@ This week, I worked through a tutorial focused on tuning similarity scores for m
 
 Through trial and error, I began to understand how changing similarity scores and re-running queries directly impacted the information returned. This iterative approach to refining queries gave me insight into the balance between model settings and the relevance of search results. 
 
+I followed along the tutorial that TJ had provided to learn more on temperature control and more.
+
 **Reflection**: Experimenting with threshold adjustments and similarity metrics opened up ways to control how information is retrieved, providing a clearer view of query customization. Moving forward, I’m curious to explore factors like model temperature or alternative model configurations to optimize search precision.
 
-# Report - Week 10(10/24/2024-10/31/2024) #
+# Report - Week 10(10/31/2024-10/07/2024) #
 
 ## Building Oopsiedaisies – Creating a Conversational Digital Persona
 
@@ -430,7 +432,7 @@ Looking forward, I plan to:
 The process of building Oopsiedaisies was both technical and creative—a perfect intersection of systems thinking and personal design philosophy. It’s exciting to see how AI tools like this can shape human-centered digital communication.
 
 
-# Report - Week 11(10/24/2024-10/31/2024) #
+# Report - Week 11(11/07/2024-11/14/2024) #
 
 This week was non instructional yet I spent it in preparation for the 4th and Final Project.
 
@@ -453,7 +455,7 @@ We identified the major pain point and were able to secure First Place. Yayyy!!!
 <img width="640" alt="Designathon Winners" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Winners.jpeg">
 
 
-### Onto the Next One
+### Onto the Next One!!!!!
 
 
 
