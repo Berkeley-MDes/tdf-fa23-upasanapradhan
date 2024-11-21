@@ -19,6 +19,7 @@ Below are links to each week’s progress:
 - [Week 9](#report---week-910242024-10312024)
 - [Week 10](#report---week-1010242024-10312024)
 - [Week 11](#report---week-1110242024-10312024)
+- [Week 12](#report---week-1211142024-11212024)
 
   
 
@@ -456,6 +457,84 @@ We identified the major pain point and were able to secure First Place. Yayyy!!!
 
 
 ### Onto the Next One!!!!!
+
+
+# Report - Week 12(11/14/2024-11/21/2024) #
+
+
+## Exploring Ideas for Smart Technologies and Final Project
+
+This week started with a lot of exploration and inspiration from the environment, museums and internet.
+
+
+<img width="640" alt="Door Knobs" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Door Knobs.jpg">
+
+<img width="400" alt="Gesture sentive device" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Gesture inspiration.png">
+
+With few inspirations, I can up with a few ideas:
+
+<img width="640" alt="Singing bowl with pendulum mallet" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Literal Singing Bowl.png">
+
+
+<img width="640" alt="Motorized Key holder" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Motorized Key holder.png">
+
+
+
+<img width="400" alt="Push button form factor" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Form Factor.png">
+
+
+
+For my pin up , I focused on the concept of **Safe Streets**, inspired by integrating **IoT and AI-driven systems** to improve pedestrian safety. The idea revolves around creating a **handheld pedestrian push button** that provides real-time crossing guidance for visually impaired pedestrians or individuals navigating complex urban environments. The device integrates **gesture sensors**, **proximity sensors**, and **AI-driven voice guidance**, ensuring adaptive safety solutions based on live traffic conditions.
+
+<img width="640" alt="Draft for push button" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Draft for Push Button.png">
+
+
+
+
+
+As part of the system design, I included integrating **AI voice guidance**, which leverages LLMs to provide adaptive instructions based on live traffic data. I also sketched the initial form factor of the handheld device, emphasizing ergonomics and functionality.
+
+<img width="640" alt="Push button" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Interactionof Push Button.png">
+
+
+
+### Augmenting Environments for Elderly Care
+
+After the pin up session, I teams with Joseline and Hongxi and tried to put our minds together to solve the problem space of **elderly care**,  
+
+After a day of brainstoring and mapping journeys we decided on developing a **wearable shoe insole** with IoT capabilities. Our objective is to empower elderly individuals by monitoring their movement patterns through a Photon2-powered insole, integrated with sensors and a cloud-connected system. My part in the project involved coding and cloud communication for the insole prototype.
+
+<img width="640" alt="Augmenting the enviroment with touchpoints" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Augmenting Environment.png">
+
+<img width="640" alt="Identifyling transitionary zones" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Transitionary zones.png">
+
+
+We conducted research on the technology that has been developed already and how we can measure data outputs and integrating them with the cloud for machine learning development.
+
+The biggest challenge lay in calibrating the sensors to detect subtle movement patterns while maintaining data accuracy. Also identifyling proper sensors as well.
+
+I also attended the Design field notes and with the speaker Irmandy Wickaksono who worked expansively with fabric and textile macroelectronics and learned more on Electronic Textiles as well.
+
+<img width="640" alt="Identifyling transitionary zones" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Fabric Inspiration.png">
+
+<img width="640" alt="Identifying transitionary zones" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/Insole Exploration 1.jpg">
+
+
+### Reflections and Speculations
+
+This week highlighted the intersection of **IoT, AI, and user-centered design**. For our final project, I envision further development of voice guidance systems to include adaptive responses for more diverse explorations
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
