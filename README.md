@@ -20,6 +20,8 @@ Below are links to each week’s progress:
 - [Week 10](#report---week-1010242024-10312024)
 - [Week 11](#report---week-1110242024-10312024)
 - [Week 12](#report---week-1211142024-11212024)
+- [Week 13](#report---week-1311212024-11282024)
+- [Week 14](#report---week-1411282024-12052024)
 
   
 
@@ -523,6 +525,53 @@ I also attended the Design field notes and with the speaker Irmandy Wickaksono w
 ### Reflections and Speculations
 
 This week highlighted the intersection of **IoT, AI, and user-centered design**. For our final project, I envision further development of voice guidance systems to include adaptive responses for more diverse explorations
+
+# Report - Week 13(11/21/2024-11/28/2024) #
+
+
+## Refining Elderly Care Insole Prototype
+
+This week, my primary focus was on refining the **IoT-enabled wearable insole** for elderly care. My tasks revolved around ensuring smooth integration with the **Particle Photon2** for real-time cloud communication. 
+
+Additionally, I started drafting and refining the **system architecture diagram** to visualize the insole's data flow. This diagram maps the journey from sensor input to cloud processing and eventual caregiver notification via a mobile app. It highlights my contributions to the coding and cloud communication setup.
+
+
+# Report - Week 14(11/28/2024-12/05/2024) #
+
+## Final Week and Testing
+
+This week marked the transition from **prototype development** to **system integration**. 
+
+I am currently working on the **code development** for the insole’s data flow, focusing on enhancing real-time responsiveness and reducing latency in cloud communication.
+
+Collaborating with the team, we have an idea for the **mobile interface** for caregivers. This included ensuring that sensor data displayed accurately and in near-real-time. I also worked on refining the **process diagrams** to document the flow of information from the insole to the app, emphasizing usability and data clarity.
+
+
+## Week 14 (11/28 - 12/05): Integrating Location Tracking for Elderly Care
+
+This week, we focused on adding **location tracking** functionality to the wearable insole for elderly care. The goal was to enable caregivers to monitor the **grandmother’s location** in real time, ensuring both safety and independence.
+
+To achieve this, we integrated the **Particle Photon2** with **Google Maps** using a custom setup through the **Google Cloud Console**. Here’s an overview of the process:
+
+
+1. **Setting Up the Google Cloud Console**  
+   We began by creating a project in the **Google Cloud Console** and enabling the **Geolocation API**. This API provides latitude and longitude coordinates based on Wi-Fi and cell tower data.
+
+2. **Configuring the Particle Photon2**  
+   - The Photon2 was set up to collect network data from nearby Wi-Fi signals.  
+   - Using the Particle Workbench, I programmed the Photon2 to send this network data to the Geolocation API for processing.
+
+
+The location data needs to be returned by the API and processed and visualized on Google Maps. 
+
+I further plan customizing the integration to allow caregivers to view the grandmother’s real-time location on their mobile devices through a **simple web-based interface** in a certain period of time.
+
+
+
+Adding location tracking to the insole enhances its utility, providing caregivers with peace of mind while the elderly way be outside the homes.
+
+
+
 
 
 
