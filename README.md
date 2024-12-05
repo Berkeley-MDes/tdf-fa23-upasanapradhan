@@ -546,6 +546,7 @@ I am currently working on the **code development** for the insole’s data flow,
 
 Collaborating with the team, we have an idea for the **mobile interface** for caregivers. This included ensuring that sensor data displayed accurately and in near-real-time. I also worked on refining the **process diagrams** to document the flow of information from the insole to the app, emphasizing usability and data clarity.
 
+<img width="640" alt="Final System architecture" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/System Architecture.png">
 
 ## Week 14 (11/28 - 12/05): Integrating Location Tracking for Elderly Care
 
@@ -556,6 +557,8 @@ To achieve this, we integrated the **Particle Photon2** with **Google Maps** usi
 
 1. **Setting Up the Google Cloud Console**  
    We began by creating a project in the **Google Cloud Console** and enabling the **Geolocation API**. This API provides latitude and longitude coordinates based on Wi-Fi and cell tower data.
+
+<img width="640" alt="Setting up Google Console" src="https://github.com/Berkeley-MDes/tdf-fa23-upasanapradhan/blob/main/assets/GoogleConsoleMaps.png">
 
 2. **Configuring the Particle Photon2**  
    - The Photon2 was set up to collect network data from nearby Wi-Fi signals.  
@@ -569,6 +572,7 @@ I further plan customizing the integration to allow caregivers to view the grand
 
 
 Adding location tracking to the insole enhances its utility, providing caregivers with peace of mind while the elderly way be outside the homes.
+
 
 
 
